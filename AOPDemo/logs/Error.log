@@ -1,0 +1,10 @@
+2024-03-20 11:51:32 [main] INFO  com.gl.AOPDemo.AopDemoApplication - Starting AopDemoApplication using Java 17.0.10 with PID 917667 (/home/asyedsaqib/syed/HCL_Feb_24_Phase-3/springboot/AOPDemo/target/classes started by asyedsaqib in /home/asyedsaqib/syed/HCL_Feb_24_Phase-3/springboot/AOPDemo)
+2024-03-20 11:51:32 [main] INFO  com.gl.AOPDemo.AopDemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-03-20 11:51:33 [main] INFO  com.gl.AOPDemo.AopDemoApplication - Started AopDemoApplication in 1.714 seconds (process running for 2.393)
+2024-03-20 11:51:33 [main] INFO  com.gl.AOPDemo.aop.LoggingAOP - Transaction support started
+2024-03-20 11:51:33 [main] ERROR com.gl.AOPDemo.aop.LoggingAOP - Transaction rolled back, refund initiated / by zero
+2024-07-24 11:53:30 [main] INFO  com.gl.AOPDemo.AopDemoApplication - Starting AopDemoApplication using Java 17.0.9 with PID 44947 (/home/nitidwivedi/Desktop/hcl_february_phase_3-main/springboot/AOPDemo/target/classes started by nitidwivedi in /home/nitidwivedi/Desktop/hcl_february_phase_3-main/springboot/AOPDemo)
+2024-07-24 11:53:30 [main] INFO  com.gl.AOPDemo.AopDemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-24 11:53:31 [main] INFO  com.gl.AOPDemo.AopDemoApplication - Started AopDemoApplication in 1.425 seconds (process running for 2.074)
+2024-07-24 11:53:31 [main] INFO  com.gl.AOPDemo.aop.LoggingAOP - Transaction support started
+2024-07-24 11:53:31 [main] ERROR com.gl.AOPDemo.aop.LoggingAOP - Transaction rolled back, refund initiated / by zero
